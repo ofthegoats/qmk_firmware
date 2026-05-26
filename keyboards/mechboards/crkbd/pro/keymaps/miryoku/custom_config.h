@@ -1,0 +1,7 @@
+#ifndef CUSTOM_CONFIG_H_
+#define CUSTOM_CONFIG_H_
+
+#define PERMISSIVE_HOLD
+#define CHORDAL_HOLD
+
+#endif // CUSTOM_CONFIG_H_
